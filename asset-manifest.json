@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.2ce01ede.chunk.css",
+    "main.js": "/cv/static/js/main.ef3746e8.chunk.js",
+    "main.js.map": "/cv/static/js/main.ef3746e8.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.fd0bbb20.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.fd0bbb20.js.map",
+    "static/js/2.6a4e4ce5.chunk.js": "/cv/static/js/2.6a4e4ce5.chunk.js",
+    "static/js/2.6a4e4ce5.chunk.js.map": "/cv/static/js/2.6a4e4ce5.chunk.js.map",
+    "static/js/3.d7709b77.chunk.js": "/cv/static/js/3.d7709b77.chunk.js",
+    "static/js/3.d7709b77.chunk.js.map": "/cv/static/js/3.d7709b77.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "static/css/main.2ce01ede.chunk.css.map": "/cv/static/css/main.2ce01ede.chunk.css.map",
+    "static/js/2.6a4e4ce5.chunk.js.LICENSE.txt": "/cv/static/js/2.6a4e4ce5.chunk.js.LICENSE.txt",
+    "static/media/Aymen Hamada - Back End Developer - Resume.db91fb16.pdf": "/cv/static/media/Aymen Hamada - Back End Developer - Resume.db91fb16.pdf",
+    "static/media/profile-pic.b838200c.png": "/cv/static/media/profile-pic.b838200c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0bbb20.js",
+    "static/js/2.6a4e4ce5.chunk.js",
+    "static/css/main.2ce01ede.chunk.css",
+    "static/js/main.ef3746e8.chunk.js"
+  ]
+}
